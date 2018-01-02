@@ -1,5 +1,13 @@
 .container {
-  padding-bottom: 20px;
+  padding-bottom: 40px;
+}
+
+body {
+  background-color: #141414;
+}
+
+.result, .head {
+  color: #FFF;
 }
 
 /*# sourceMappingURL=style.css.map */
